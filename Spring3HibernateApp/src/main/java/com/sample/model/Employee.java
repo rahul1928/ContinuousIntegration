@@ -1,3 +1,4 @@
+// new line added 
 package com.sample.model;
 
 import java.io.Serializable;
